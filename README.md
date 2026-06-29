@@ -10,6 +10,7 @@
 **Clasificación:** TLP:WHITE
 
 ---
+
 <div align="center">
   <h3>⚠️ AVISO IMPORTANTE</h3>
   <p>
@@ -18,6 +19,7 @@
     Para más detalles, consulte el archivo <a href="DISCLAIMER.md">DISCLAIMER.md</a>.
   </p>
 </div>
+
 ---
 
 PARTE 1: LA SECTA 764 – ORIGEN, IDEOLOGÍA Y ESTRUCTURA GLOBAL
