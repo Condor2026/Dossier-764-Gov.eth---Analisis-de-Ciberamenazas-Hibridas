@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Si utilizas este trabajo en tu investigación, por favor cítalo como:"
+title: "Dossier 764 & Gov.eth - Análisis de Ciberamenazas Híbridas"
+authors:
+  - family-names: "Condor2026"
+    given-names: ""
+    alias: "Condor2026"
+    email: "KiraSecuruty@proton.me"
+    affiliation: "Analista OSINT independiente"
+date-released: 2026-06-28
+url: "https://github.com/Condor2026/Dossier-764-Gov.eth---Analisis-de-Ciberamenazas-Hibridas"
+repository: "https://github.com/Condor2026/Dossier-764-Gov.eth---Analisis-de-Ciberamenazas-Hibridas"
+
+abstract: "Dossier completo sobre la red terrorista 764 (secta satánico-neonazi) y el ciberdelincuente Gov.eth, con análisis de modus operandi, ideología, impacto social y operaciones en Argentina, España y EE.UU. 
+Elaborado con fines académicos e investigativos en ciberseguridad y OSINT."
+license: "CC-BY-NC-SA-4.0"
+keywords:
+  - OSINT
+  - Ciberseguridad
+  - Terrorismo Digital
+  - Neonazismo
+  - Secta 764
+  - Gov.eth
+  - Grooming
+  - Sextorsión
+  - Análisis de Amenazas
+  - Inteligencia de Fuentes Abiertas
+type: "report"
