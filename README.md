@@ -564,7 +564,7 @@ El caso Gov.eth marcó un antes y un después en la lucha contra el cibercrimen 
 
 ---
 
-PARTE 3: EL CONTEXTO MÁS AMPLIO – LA AMENAZA HÍBRIDA Y LAS MEDIDAS DE PREVENCIÓN
+    PARTE 3: EL CONTEXTO MÁS AMPLIO – LA AMENAZA HÍBRIDA Y LAS MEDIDAS DE PREVENCIÓN
 
 ---
 
@@ -919,10 +919,71 @@ Este informe se basa en fuentes públicas verificadas:
 
 ---
 
-FIN DEL INFORME COMPLETO
+    RESUME FINAL
+
+Esta desmantelado el ciber grupo de GOV.ETH? 
+
+No, el grupo no está desmantelado. Lo que ha ocurrido es una serie de golpes tácticos importantes, pero la estructura permanece activa.
 
 ---
 
+1. EL CASO GOV.ETH: DETENIDO, PERO SU RED SIGUE
+
+Matheo Enzo Torres Palacios fue arrestado en Madrid el 25 de junio de 2026. La Policía Nacional de España allanó su "búnker" y le secuestró dos teléfonos y dos computadoras.
+
+Sin embargo:
+
+· Su detención se suma a la de PampaLeaks (Juan Manuel Lage Machi, 19 años), otro grupo que atacó junto a Gov.eth la web de la Dirección Nacional Aeronáutica de Uruguay.
+· La investigación reveló que operaba con una banda de menores de edad.
+· La megacausa "DICTADORES" ya había desarticulado a 11 miembros de su organización en octubre de 2025 (allanamientos en Buenos Aires, Santa Fe, Córdoba y Mendoza).
+
+Conclusión: Gov.eth como individuo está fuera de circulación. Pero su red de colaboradores y clientes sigue existiendo en canales de Telegram y foros oscuros.
+
+---
+
+2. LA RED 764: DESCENTRALIZADA Y VIVA
+
+La red 764 no es una organización jerárquica que se pueda "desmantelar" con un solo golpe. Es una red descentralizada y atomizada con células en docenas de países.
+
+Lo que se ha logrado:
+
+Acción Lugar Fecha
+Detención de miembro de 764 que amenazó la Sinagoga Kehila Rosario, Argentina Mayo 2026
+Detención de Hugo Figuerola (amenazas a 27 colegios) Valencia, España Febrero 2025
+Arresto de Leonidas Varagiannis "War" (líder de 764 Inferno) Tesalónica, Grecia 2025
+Detención de dos menores de 17 años Creta y Tesalónica, Grecia 2026
+Condena de Bradley Cadenhead (fundador) a 80 años Texas, EE.UU. 2025
+
+Lo que sigue activo:
+
+· La "764 LISTA PÚBLICA" hallada en el allanamiento de Rosario menciona al "propietario", al "líder", al "líder del terror" (cuatro usuarios), un "consejo del terror" (tres usuarios) y 19 "miembros". Los investigadores dejaron claro: "Detrás de esos usuarios hay personas. Por ahora son usuarios virtuales, pero la intención es identificar a cada uno de ellos".
+· Durante 2026 se registraron al menos cuatro amenazas similares en Argentina vinculadas al grupo 764.
+· El FBI sigue investigando más de 350 casos en EE.UU..
+· El grupo sigue operando en Discord, Roblox, 8chan y Telegram.
+
+---
+
+3. OBSERVACIÓN FINAL
+
+No, el grupo no está desmantelado. Lo que tenemos es:
+
+1. Gov.eth: Detenido, con su célula principal desarticulada, pero su ecosistema de seguidores y compradores de datos sigue activo.
+2. Red 764: Golpeada pero no derrotada. Es una hidra digital: cortas una cabeza y crecen dos más. Su estructura descentralizada hace que sea casi imposible "desmantelarla" por completo con operativos tradicionales.
+3. Lo que realmente se necesita: No basta con detener individuos. Hace falta:
+   · Cooperación internacional permanente (PFA-FBI-Europol-Interpol)
+   · Monitoreo constante de plataformas (Discord, Telegram, Roblox)
+   · Alfabetización digital para padres y educadores
+   · Legislación actualizada contra el extremismo online
+
+El mensaje de los investigadores es claro: "Es real. Detrás de esos usuarios hay personas". La lucha continúa.
+
+---
+
+
+FIN DEL INFORME COMPLETO
+
+---
+29/06/2026
 Condor2026
 OSINT & Cyber Threat Analysis
 GitHub: Condor2026
