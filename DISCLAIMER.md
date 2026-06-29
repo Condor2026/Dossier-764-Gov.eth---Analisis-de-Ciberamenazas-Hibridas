@@ -1,4 +1,3 @@
----
 
 ```
 # Aviso Legal y Exención de Responsabilidad
@@ -55,6 +54,4 @@ Para correcciones, actualizaciones o solicitudes de eliminación de contenido (p
 
 **Al leer o clonar este repositorio, usted acepta los términos aquí expuestos.**
 ```
-
----
 
