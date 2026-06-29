@@ -996,6 +996,61 @@ No, el grupo no está desmantelado. Lo que tenemos es:
    · Monitoreo constante de plataformas (Discord, Telegram, Roblox)
    · Alfabetización digital para padres y educadores
    · Legislación actualizada contra el extremismo online
+   
+---
+
+## Lista de Miembros y Líderes de la Red 764 (Confirmados por Fuentes Públicas)
+
+La red 764 es descentralizada y opera con identidades digitales, pero los siguientes individuos han sido **identificados, arrestados o imputados** por las autoridades de EE.UU., Reino Unido, Canadá y otros países.
+
+| Alias / Nombre Real | Edad | Ubicación | Rol / Actividades | Estatus Legal |
+|---|---|---|---|---|
+| **Bradley Chance Cadenhead** ("Felix") | 15-17 años (fundador) | Stephenville, Texas, EE.UU. | Fundador de la red 764 en 2021 | Condenado a 80 años de prisión en EE.UU.  |
+| **Leonidas Varagiannis** ("War") | 21 años | Tesalónica, Grecia | Líder de la facción "764 Inferno" | Arrestado en 2025 por explotación infantil y extorsión  |
+| **Prasan Nepal** ("Trippy") | 20 años | EE.UU. | Líder destacado del grupo | Arrestado en 2025 por explotación infantil y extorsión  |
+| **Cameron Finnigan** | 18 años | Horsham, Reino Unido | Manipulador de menores, incitación al suicidio | Condenado a 6 años de prisión en Reino Unido  |
+| **Tony Christopher Long** ("Inactive") | 19 años | Porterville, California, EE.UU. | Miembro activo, acusado de explotación sexual de menor y crushing de animales | Imputado en octubre de 2025 por un gran jurado federal  |
+| **Hugo Figuerola** ("NeoHitler666") | 23 años | Valencia, España | Amenazó con tiroteo masivo a 27 colegios | Internado en unidad psiquiátrica por orden judicial [cita interna] |
+| **Miembro menor de edad** | 14 años | Alberta, Canadá | Participación activa en grupos extremistas, pornografía juvenil y explosivos | Acusado en febrero de 2024 por múltiples delitos  |
+| **Miembro menor de edad** | Menor de edad | Suecia | Atacó a una mujer de 55 años con cuchillo y subió el video a redes sociales | Detenido en enero de 2025  |
+| **Matheo Enzo Torres Palacios** ("Gov.eth") | 22 años | Madrid, España | Ciberdelincuente neonazi, ataques a gobiernos de Argentina, Uruguay, España y EE.UU. | Detenido en Madrid el 25 de junio de 2026 |
+
+---
+
+## Miembros Adicionales Mencionados en Documentos Judiciales
+
+| Alias / Nombre Real | Ubicación | Actividades |
+|---|---|---|
+| **"Gnasher"** | EE.UU. | Mencionado en documentos judiciales del caso de Tony Long como miembro del núcleo de 764  |
+| **"Kanna"** | EE.UU. | Mencionado en documentos judiciales del caso de Tony Long  |
+
+---
+
+## Observaciones Importantes
+
+1. **La lista NO es exhaustiva.** El FBI tiene más de 350 investigaciones abiertas sobre la red 764 en EE.UU., y hay células en al menos 20 países .
+
+2. **Muchos miembros son menores de edad.** El grupo está dirigido principalmente por adolescentes de entre 13 y 18 años, lo que complica la respuesta judicial .
+
+3. **Los alias cambian constantemente.** Los miembros usan múltiples identidades en Discord, Telegram y Roblox para evadir la detección.
+
+4. **El grupo NO está desmantelado.** Aunque líderes clave han sido arrestados, la red sigue activa y operando .
+
+---
+
+La red 764 no recluta con discursos políticos. Recluta con:
+
+Depredación emocional
+
+Aislamiento familiar
+
+Manipulación psicológica
+
+Miedo y extorsión
+
+Los menores que entran no son "monstruos". Son chicos rotos que fueron engañados, presionados y condicionados. Algunos saldrán, otros no, pero negarles la posibilidad de redención es exactamente lo que la secta quiere: que el mundo los vea como desechables.
+
+---
 
 El mensaje de los investigadores es claro: "Es real. Detrás de esos usuarios hay personas". La lucha continúa.
 
