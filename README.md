@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Dossier+764+%26+Gov.eth;An%C3%A1lisis+de+Ciberamenazas+H%C3%ADbridas;Anonimato+como+escudo" alt="Typing animation" />
 </p>
 
-# 🦅 Condor2026 – Investigador de Amenazas | Purple Team | OSINT Developer
+# 🦅 Condor2026 – Investigador de Amenazas | Purple Team | OSINT Developer ! 764 ! Gov.eth
 
 **Proyecto:** Dossier 764 & Gov.eth - Análisis de Ciberamenazas Híbridas
 **Autor:** Condor2026
